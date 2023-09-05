@@ -20,8 +20,10 @@ Article AI is an AutoGPT application that simplifies the process of generating a
    and then create new secret key
 4. Use the same secret key as your apikey in your apikey.py file 
 5. Run the application using Streamlit:
-         streamlit run app.py
-6. Enter your desired topic, and Article AI will create an article and its title for you.
+   ```
+   streamlit run app.py
+   ```
+7. Enter your desired topic, and Article AI will create an article and its title for you.
 
  Note : Run appwiki.py file to integrate results from wikipedia and follow the same instructions
 
