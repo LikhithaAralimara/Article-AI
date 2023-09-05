@@ -1,1 +1,1 @@
-apikey='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'
+apikey='<paste your secret key from https://platform.openai.com/account/api-keys here> '
