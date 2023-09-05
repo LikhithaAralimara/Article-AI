@@ -42,5 +42,4 @@ Article AI is an AutoGPT application that simplifies the process of generating a
 - [OpenAI](https://openai.com/): Cutting-edge AI language models.
 - [Wikipedia](https://www.wikipedia.org/): A vast source of information.
 
-You can find a 2 files 
-1. app.py 
+
